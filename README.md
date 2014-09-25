@@ -1,3 +1,5 @@
+A widget for [Übersicht](http://tracesof.net/uebersicht/) that displays the list of tasks in the Today section of [Things](https://culturedcode.com/things/).
+
 # Requirements
 
 - "Things" from CulturedCode
